@@ -5,7 +5,7 @@
       {
         "appID": "HPYN5287U4.com.docdoc.docdoc",
         "paths": [
-          "*"
+          "/doctor/*"
         ]
       }
     ]
