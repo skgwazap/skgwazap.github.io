@@ -1,20 +1,22 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": {
-			"HPYN5287U4.com.docdoc.docdoc" : {
-				"paths": [
-					"/doctor/*/id/*"
-				]
-			},
-			"P8H223DU57.com.docdoc.docdoc" : {
-				"paths": [
-					"/doctor/*/id/*",
-					"/doctor/id/*",
-					"/doctorList/*/specialityId/*/cityId/*",
-					"/doctorList/specialityId/*/cityId/*"
-				]
-			}
-		}
-	}
+    "applinks": {
+        "apps": [],
+        "details": {
+            "HPYN5287U4.com.docdoc.docdoc": {
+                "paths": [
+                    "/doctor/*/id/*"
+                ]
+            },
+            "P8H223DU57.com.docdoc.docdoc": {
+                "paths": [
+                    "/doctor/*/id/*",
+                    "/doctor/id/*",
+                    "/doctorList/*/specialityId/*/cityId/*",
+                    "/doctorList/specialityId/*/cityId/*",
+		    "/sl/*",
+		    "/cabinet/card"
+                ]
+            }
+        }
+    }
 }
