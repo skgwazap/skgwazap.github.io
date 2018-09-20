@@ -13,8 +13,7 @@
                     "/doctor/id/*",
                     "/doctorList/*/specialityId/*/cityId/*",
                     "/doctorList/specialityId/*/cityId/*",
-		    "/sl/*",
-		    "/cabinet/card"
+		    "/mc"
                 ]
             }
         }
